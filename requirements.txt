@@ -1,0 +1,5 @@
+Flask==2.2.2
+mysql-connector-python==8.0.31
+mysqlclient==2.1.1
+selenium==4.7.2
+webdriver-manager==3.8.5
